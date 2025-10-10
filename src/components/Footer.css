@@ -1,0 +1,58 @@
+footer {
+  background-color: #232427; /* Tailwind's bg-blue-900 */
+  color: white;
+  padding: 20px; /* Tailwind p-6 */
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+footer .social-links {
+  display: flex;
+  justify-content: center;
+  gap: 2rem; /* increased gap */
+  margin-top: 1rem; /* increased margin */
+  font-size: 2.5rem; /* increased icon size */
+}
+
+footer .social-links a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+/* Specific colors for social media icons */
+footer .social-links a.facebook-icon {
+  color: #1877f2; /* Facebook blue */
+}
+
+footer .social-links a.facebook-icon:hover {
+  color: #145dbf;
+}
+
+footer .social-links a.instagram-icon {
+  color: #833ab4; /* Instagram purple */
+}
+
+footer .social-links a.instagram-icon:hover {
+  color: #6a2c9a;
+}
+
+footer .social-links a.whatsapp-icon {
+  color: #25d366; /* WhatsApp green */
+}
+
+footer .social-links a.whatsapp-icon:hover {
+  color: #1ebe57;
+}
+
+footer .social-links a.twitter-icon {
+  color: white; /* keep default white for Twitter */
+}
+
+footer .social-links a:hover {
+  color: #d1d5db; /* Tailwind's gray-300 */
+}

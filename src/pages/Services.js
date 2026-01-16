@@ -7,7 +7,7 @@ export default function Services() {
       <div className="services-list">
         <div className="service-card">
           <h3>Clearing and Forwarding</h3>
-          <p>With Luztow, for over (17) years of ocean experience, you can expect swift processing, transparent communication, and cost-effective solutions.
+          <p>With Luztow Resources, for over (17) years of ocean experience, you can expect swift processing, transparent communication, and cost-effective solutions.
           We provide end-to-end support, ensuring your cargo clears customs seamlessly, minimizing delays and maximizing your productivity.</p>
           <p>You can trust us to handle all your Customs clearing and forwarding ranging from documentation to cargo clearance needs with your interest at heart with precision. We will take care of every step of the process, from pickup to final delivery..</p>
            <img 
@@ -62,7 +62,7 @@ export default function Services() {
         </div>
         <div className="service-card">
           <h3>Ship Management </h3>
-          <p>Luztow Logistics provides a top level Global ship management  specialized in the transportation of refined petroleum products.</p>
+          <p>Luztow Resources provides a top level Global ship management  specialized in the transportation of refined petroleum products.</p>
           <p>We lease Support Vessels, Oil Tankers to major and independent Oil Marketers for lightening of imported products and for refinery loading, either on voyage and time charter contracts.</p>
           <p>We also provide offshore support; Lunch boat hire services, Towage and Barge Operations, Ship-Ship Transfer Operations etc. Our local knowledge of operational conditions and strong relationship with all Local Authorities and Departments, ensures your best interests are maintained.</p>
           <p>We are proud of our expertise in handling all types vessels from Gas- Chemical -Oil tankers in all Nigerian Sea Ports.</p>
@@ -73,7 +73,7 @@ export default function Services() {
         </div>
         <div className="service-card">
           <h3>Oil and Gas Industry Support</h3>
-          <p>Luztow Logistics Int'l Ltd is an independent oil trading company registered in Nigeria with the Corporate Affairs Commission CAC. We are actively involved in the importation, distribution, storage and trading of Petroleum products and other hydrocarbons.</p>
+          <p>Luztow Resources Int'l Ltd is an independent oil trading company registered in Nigeria with the Corporate Affairs Commission CAC. We are actively involved in the importation, distribution, storage and trading of Petroleum products and other hydrocarbons.</p>
           <p>We began operations in the downstream sector of the Nigerian energy market, and we have grown over the last few years. We have developed and established foundation for growth, and we have gained prominence in performance in the competitive and highly capital intensive energy sector. At Dowell Maritime & Oil Resources Limited, we trade on refined petroleum products: AGO, PMS, LPFO, ATK, DPK, LPG and lubricating oil and Gas on independent and joint venture basis.</p>
         </div>
         <div className="service-card">

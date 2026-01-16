@@ -75,7 +75,7 @@ export default function About() {
       <p>MD/CEO</p>
       <div className="board-management">
         <h3>Board and Management</h3>
-        <p>At Luztow Logistics, we are guided by a visionary board of directors and an exceptional management team, united in our commitment to driving the success and growth of our organization. With our collective expertise, forward-thinking strategies, and unwavering dedication to excellence, we lay the foundation for innovation, profitability, and sustainable success.</p>
+        <p>At Luztow Resources, we are guided by a visionary board of directors and an exceptional management team, united in our commitment to driving the success and growth of our organization. With our collective expertise, forward-thinking strategies, and unwavering dedication to excellence, we lay the foundation for innovation, profitability, and sustainable success.</p>
         <h4>Board of Directors: Shaping the Future</h4>
         <p>Our esteemed board of directors is composed of accomplished leaders, industry veterans, and experts in their respective fields. They bring a wealth of knowledge, strategic insights, and diverse perspectives that steer our organization towards new horizons. Through their visionary guidance, they ensure that our strategic goals are aligned with market dynamics, customer needs, and long-term sustainability.</p>
         <p>Key responsibilities of our board of directors include:</p>

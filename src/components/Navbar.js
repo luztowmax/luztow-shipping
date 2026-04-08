@@ -12,7 +12,7 @@ export default function Navbar() {
   return (
     <nav>
       <div className="logo">
-        <img src="/assets/luztow logo.jpg" alt="luztow logo" />
+        <img src="/assets/Rebranded logo.jpeg" alt="luztow logo" />
         <h1>Luztow Resources Ltd</h1>
         <button className="hamburger" onClick={toggleMenu} aria-label="Toggle menu">
           <span className="bar"></span>

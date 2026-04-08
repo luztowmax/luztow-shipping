@@ -6,7 +6,7 @@ const Projects = () => {
     {
       name: 'Project 1',
       description: 'EASYBOOK INVENTORY MANAGEMENT SOFTWARE. ', // Placeholder for project description
-      image: '/assets/Easybook logo.jpg', // Placeholder - replace with actual image path
+      image: '/assets/Easybook logo mark (1).png', // Placeholder - replace with actual image path
       link: 'https://example.com/project1' // Placeholder - replace with actual URL
     },
     {

@@ -7,6 +7,7 @@ import Contact from "./pages/Contact";
 import GetQuote from "./pages/GetQuote";
 import Projects from "./components/Projects";
 import Footer from "./components/Footer";
+import WhatsAppChatWidget from "./components/WhatsAppChatWidget";
 import './index.css';
 
 function AppWrapper() {
@@ -34,6 +35,7 @@ function App() {
           </Routes>
         </main>
         <Footer />
+        <WhatsAppChatWidget />
       </div>
   );
 }

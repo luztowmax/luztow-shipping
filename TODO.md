@@ -1,6 +1,9 @@
-# TODO for Task: Enable receiving messages from GetQuote form and send auto-reply
+# WhatsApp Chat Widget Task
 
-- [x] Install @emailjs/browser dependency
-- [x] Update src/pages/GetQuote.js: Integrate EmailJS to send form data to admin email and auto-reply to user
-- [ ] User provides EmailJS credentials: public key, service ID, admin template ID, reply template ID
-- [ ] Test form submission
+## Steps:
+- [x] Create TODO.md with plan steps
+- [x] Create src/components/WhatsAppChatWidget.js (new floating widget component)
+- [x] Update src/App.js (import and render WhatsAppChatWidget globally)
+- [x] Update src/components/Footer.js (enhance WhatsApp link consistency)
+- [x] Test: Run `npm start`, verify widget on all pages/routes
+

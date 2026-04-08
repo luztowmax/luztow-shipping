@@ -67,7 +67,7 @@ export default function About() {
         </div>
       </div>
       <img
-      src="/assets/Tosin Akinlofa.jpg"
+      src="/assets/Mr-Akin-2.jpg.jpeg"
       alt="Tosin Akinlofa"
       className="person-image"
       />

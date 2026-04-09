@@ -22,7 +22,7 @@ export default function Footer() {
         <div className="p-8 space-y-4">
             <div className="contact-container text-white">
               <h2 className="text-3xl font-bold mb-4">Contact Us</h2>
-              <p><FaEnvelope className="inline mr-2" /> Email: info@luztowresources.com</p>
+              <p><FaEnvelope className="inline mr-2" /> Email: tosinakinlofa@luztowresources.com.ng</p>
               <p><FaPhone className="inline mr-2" /> Phone: +234 9032924589</p>
               <p><FaLocationDot className="inline mr-2" /> Address: 22 Bornu Crescent Apapa Lagos, Nigeria</p>
             </div>

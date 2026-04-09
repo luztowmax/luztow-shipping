@@ -1,9 +1,1 @@
-# WhatsApp Chat Widget Task
-
-## Steps:
-- [x] Create TODO.md with plan steps
-- [x] Create src/components/WhatsAppChatWidget.js (new floating widget component)
-- [x] Update src/App.js (import and render WhatsAppChatWidget globally)
-- [x] Update src/components/Footer.js (enhance WhatsApp link consistency)
-- [x] Test: Run `npm start`, verify widget on all pages/routes
-
+# GTM Integration TODO&#10;&#10;- [✅] Create TODO.md with steps&#10;- [✅] Edit public/index.html: Add GTM script before </head>&#10;- [✅] Edit public/index.html: Add GTM noscript before </body>&#10;- [✅] Update TODO.md with completion status&#10;- [ ] Test: Run `npm start` and verify GTM loads in browser
